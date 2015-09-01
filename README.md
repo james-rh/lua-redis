@@ -6,3 +6,11 @@ redis.lua 脚本
 redis 的hash, 及 集合 命令
 
 nginxlua.conf 配制
+lua地址: 
+示列: 
+
+http://192.168.50.105:888/testform?fun=get&value=ss
+
+
+
+
