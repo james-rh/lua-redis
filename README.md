@@ -15,5 +15,7 @@ lua地址:
 http://192.168.50.105:888/testform?fun=get&value=ss
 
 
+redis_lib.php  为ＰＨＰ类包 redis_lua 类
+
 
 
